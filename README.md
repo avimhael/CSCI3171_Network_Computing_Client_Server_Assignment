@@ -1,7 +1,7 @@
 # Network Computing CSCI 3171.03
 ## Assignment 3
 ### Elijah Whynot B00616475 and Matt Ward B00671544
-#### March 23rd 2020
+#### March 2020
 
 1. In the command line enter `gcc -o server.c server` to compile server
 2. In the command line enter `gcc -o client.c client` to compile client
